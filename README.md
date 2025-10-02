@@ -40,7 +40,7 @@ I[12:21:19.178] All checks completed, 2 errors
 
 When you are using Coc.nvim, following error pop up:
 
-[Errror](file_not_found.jpg)
+![Errror](file_not_found.jpg)
 
 # Problem
 
